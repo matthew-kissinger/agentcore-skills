@@ -1,0 +1,22 @@
+{
+  "name": "agentcore-skills",
+  "version": "0.1.0",
+  "description": "Practical Runtime, Gateway and operational skills from a retired production service.",
+  "author": {
+    "name": "Matthew Kissinger",
+    "url": "https://github.com/matthew-kissinger"
+  },
+  "repository": "https://github.com/matthew-kissinger/agentcore-skills",
+  "homepage": "https://github.com/matthew-kissinger/agentcore-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AgentCore Skills",
+    "shortDescription": "Practical Runtime, Gateway and operational skills from a retired production service.",
+    "longDescription": "Practical Runtime, Gateway and operational skills from a retired production service.",
+    "developerName": "Matthew Kissinger",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me debug an agent application using these skills."
+  }
+}

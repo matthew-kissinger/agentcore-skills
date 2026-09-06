@@ -1,0 +1,21 @@
+{
+  "name": "agentcore-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Practical Runtime, Gateway and operational skills from a retired production service.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test",
+    "check": "npm run validate && npm test",
+    "package": "python scripts/package.py"
+  },
+  "devDependencies": {
+    "bedrock-agentcore": "0.4.3",
+    "zod": "4.4.3"
+  }
+}

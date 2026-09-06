@@ -1,0 +1,13 @@
+{
+  "name": "agentcore-skills",
+  "owner": {
+    "name": "Matthew Kissinger"
+  },
+  "plugins": [
+    {
+      "name": "agentcore-skills",
+      "source": "./",
+      "description": "Practical Runtime, Gateway and operational skills from a retired production service."
+    }
+  ]
+}
