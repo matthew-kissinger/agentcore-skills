@@ -9,5 +9,9 @@
       "source": "./",
       "description": "Practical Runtime, Gateway and operational skills from a retired production service."
     }
-  ]
+  ],
+  "metadata": {
+    "description": "Practical Runtime, Gateway and operational skills from a retired production service.",
+    "version": "0.1.0"
+  }
 }

@@ -1,6 +1,6 @@
 # Validation
 
-Release candidate: 0.1.0. Checked 2026-09-06.
+Release: 0.1.0. Checked 2026-09-06.
 
 ## Executed checks
 
@@ -31,3 +31,10 @@ The historical service observations are labeled accordingly.
 Seven fresh-agent scenarios are supplied in `evals/scenarios.json`; they were reviewed
 as decision rubrics, not run as a cross-model performance benchmark. Installation
 compatibility does not establish equivalent behavior across agent hosts.
+
+## Publication checks
+
+Both public repositories were installed with Skills CLI 1.5.23 into temporary
+project paths for Codex, Claude Code and Hermes. Native Claude marketplace
+validation passed without warnings. Windows and Linux CI passed before release;
+GitHub Actions records checks for each commit.
