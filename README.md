@@ -7,7 +7,7 @@ Practical Runtime, Gateway and operational skills from a retired production serv
 
 Small, installable skills for coding agents, with source-linked reasoning and offline
 examples. Derived from building, debugging and retiring the hosted version of
-[Kiln](https://github.com/matthew-kissinger/kiln), then checked against current docs.
+[Kiln](https://github.com/instruktlabs/kiln), then checked against current docs.
 No Kiln installation, model key or AWS account is needed for the offline checks.
 This is an independent community project.
 
